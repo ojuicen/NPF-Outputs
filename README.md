@@ -33,7 +33,7 @@ Per our paper, for each speech we perform a basic NPF Analysis identifying the f
 Per our paper, for each topic we pair:
 
 - **1 human** speech  
-- **1 existing AI** speech (temp 0.9 Speech-style NPF)  
+- **1 existing AI** speech (temp 0.9 Speech-style)  
 - **1 new AI-emulation** speech (modern context prompts)
 
 And analyze via:
