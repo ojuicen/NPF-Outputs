@@ -56,6 +56,6 @@ We then compare narrative structures, literary strategies, and reuse of historic
 
 If you use these materials, please cite:
 
-> *Name*, *Co-Authors*. (2025). *To be Added*. Retrieved from https://github.com/ojuicen/NPF-Outputs
+> Citation
 
 ---
