@@ -38,9 +38,9 @@ Per our paper, for each topic we pair:
 
 And analyze via:
 
-1. **Micro-level**: The individual level and how individuals both inform and are informed by narratives.
-2. **Meso-level**: Coalition or partisan alignment; interacting narratives.
-3. **Macro-level**: How policy narratives embedded in cultures and institutions shape public policy: national myths & cultural motifs (“New Frontier,” “Manifest Destiny,” etc).
+1. **Micro-level**: How the speech appeals to individuals’ beliefs and emotions—e.g. moral binaries, personal duties, etc.
+2. **Meso-level**: How coalitions and interest groups deploy competing narratives.
+3. **Macro-level**: How the speech taps national‐level cultural frames—Civil Rights movements, freedom movements, etc.
 
 We then compare narrative structures, literary strategies, and reuse of historical policy tropes.
 
