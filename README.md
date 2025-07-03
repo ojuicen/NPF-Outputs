@@ -13,6 +13,7 @@ NPF-Outputs/
 ├── gpt_outputs_cleaned.md         # Full AI-generated speech texts
 ├── policy_narratives_output.json  # Raw JSON output
 ├── emulation_gpt_outputs.md       # Emulated full speeches
+├── ai_speech_style_comparision.md # AI-generated 0.9 Speech-style comparision speeches
 └── NPF_Prompts.ipynb              # Script to run experiments
 ```
 
